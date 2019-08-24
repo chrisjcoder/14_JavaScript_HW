@@ -1,22 +1,26 @@
-## Unit 14 - Intro to Javascript
+# Unit 14 | Assignment - JavaScript and DOM Manipulation
 
-## Objectives
+## Summary
 
-* Understand JS fundamentals: arrays, conditionals, loops, functions, objects.
-* Understand functional programming with map, forEach.
-* Work with common data structures.
-* Be introduced to data driven documents (d3.js).
-* Understand how to select elements using d3.select.
-* Use d3 for basic DOM manipulation.
-* Understand how to use callbacks.
-* Understand the structure of html tables.
-* Populate a table using static data structures.
-* Understand events.
-* Use d3 to attach events to DOM elements.
-* Dynamically manipulate the DOM through events.
-* Filter data with JavaScript.
+Completed Level 1 of Assignment using Bootstrap, Javascript and D3.js fundamentals.
+
+Site : 
+
+### Level 1: Automatic Table and Date Search
+
+* Create a basic HTML web page or use the [index.html](StarterCode/index.html) file provided (we recommend building your own custom page!).
+
+* Using the UFO dataset provided in the form of an array of JavaScript objects, write code that appends a table to your web page and then adds new rows of data for each UFO sighting.
+
+  * Make sure you have a column for `date/time`, `city`, `state`, `country`, `shape`, and `comment` at the very least.
+
+* Use a date form in your HTML document and write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
 
 
-### Copyright
+### Dataset
 
-Trilogy Education Services © 2019. All Rights Reserved.
+* [UFO Sightings Data](StarterCode/static/js/data.js)
+
+
+
+Data Boot Camp © 2018. All Rights Reserved.
